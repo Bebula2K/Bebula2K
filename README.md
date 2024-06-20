@@ -26,4 +26,4 @@ I am ITTruffle. I make command line games))
     
   </h2>
 </p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ITTruffle&show_icons=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Bebula2K&show_icons=true&theme=tokyonight" />
