@@ -18,7 +18,7 @@ I am ITTruffle. I make command line games))
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     Discord: lietuvis_official
-    Tg: https://t.me/AdomceXD
+    Tg: https://t.me/Bebula2K
   </h2>
   <h2>Education:
   <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" />
